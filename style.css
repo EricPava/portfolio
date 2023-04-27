@@ -68,8 +68,7 @@
     cursor: pointer;
 }
 
-.fa-linkedin:hover,
-.fa-twitch:hover {
+.fa-linkedin:hover {
     color: orange;
 }
 
