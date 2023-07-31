@@ -73,11 +73,12 @@
 }
 
 .fab {
-    color: blue;
+    color: white;
 }
 
 /* footer styling */
 #footer {
     background-color: blue;
     text-align: center;
+    width: 100%;
 }
